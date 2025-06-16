@@ -948,11 +948,9 @@ h6 {
 
 .infinite-slider {
   width: 100%;
-  max-width: 1920px;
   margin: 0 auto;
   overflow: hidden;
   padding: 40px 0;
-  /* justify-content: center; */
 }
 
 .infinite-track {
