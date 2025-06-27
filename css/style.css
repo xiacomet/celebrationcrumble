@@ -229,7 +229,9 @@ html {
 .banner_video video {
   display: block;
   width: 100%;
-  object-fit: cover; 
+  object-fit: cover;
+  width: 100vw;
+  box-sizing: border-box;
 }
 
 .video_text h5 {
